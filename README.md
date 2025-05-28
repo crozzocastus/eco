@@ -1,12 +1,38 @@
-# React + Vite
+# EcoBook 🌿
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple project to demonstrate using Vite, React, and Tailwind CSS together, with a minimal Node.js + Express backend for test purposes.
 
-Currently, two official plugins are available:
+The frontend is designed like an eco-themed Facebook, built with reusable React components and styled using Tailwind.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
 
-## Expanding the ESLint configuration
+    Frontend: Vite + React + Tailwind CSS
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+    Backend: Node.js + Express (for basic API testing)
+
+### Run the Project
+
+Frontend:
+
+  cd eco
+  npm install
+  npm run dev
+
+Backend:
+
+  cd eco/backend
+  npm install
+  node server.js
+
+#### Features
+
+    Facebook-inspired eco interface
+
+    React components
+
+    Tailwind styling
+
+    Simple API connection (expandable)
+
+
+
