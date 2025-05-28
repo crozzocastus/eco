@@ -1,0 +1,156 @@
+[
+  {
+    "id": 1748379168419,
+    "user": "admin",
+    "username": "admin",
+    "description": "#amor é tudo de bom #ecologia",
+    "mediaUrl": "",
+    "activities": [
+      "amor",
+      "ecologia"
+    ],
+    "groups": [],
+    "userRole": "Reciclador",
+    "userJoinedAt": "2023-01-10",
+    "userAvatarUrl": "https://avatars.githubusercontent.com/u/583231?v=4",
+    "likes": {
+      "❤️": 5,
+      "👍": 2,
+      "🌳": 13,
+      "🍃": 14,
+      "♻️": 11,
+      "🌞": 3
+    },
+    "createdAt": "2025-05-27T20:52:48.419Z"
+  },
+  {
+    "id": 1748379182539,
+    "user": "admin",
+    "username": "admin",
+    "description": "#amor",
+    "mediaUrl": "",
+    "activities": [
+      "amor"
+    ],
+    "groups": [],
+    "userRole": "Reciclador",
+    "userJoinedAt": "2023-01-10",
+    "userAvatarUrl": "https://avatars.githubusercontent.com/u/583231?v=4",
+    "likes": {
+      "❤️": 15,
+      "👍": 7,
+      "🌳": 17,
+      "🍃": 5,
+      "♻️": 18,
+      "🌞": 10
+    },
+    "createdAt": "2025-05-27T20:53:02.539Z"
+  },
+  {
+    "id": 1748379223564,
+    "user": "admin",
+    "username": "admin",
+    "description": "#amor",
+    "mediaUrl": "",
+    "activities": [
+      "amor"
+    ],
+    "groups": [],
+    "userRole": "Reciclador",
+    "userJoinedAt": "2023-01-10",
+    "userAvatarUrl": "https://avatars.githubusercontent.com/u/583231?v=4",
+    "likes": {
+      "❤️": 1,
+      "👍": 8,
+      "🌳": 4,
+      "🍃": 0,
+      "♻️": 6,
+      "🌞": 6
+    },
+    "createdAt": "2025-05-27T20:53:43.564Z"
+  },
+  {
+    "id": 1001,
+    "user": "Alice",
+    "username": "alice",
+    "description": "Plantando árvores é uma das melhores formas de ajudar o planeta! #Plantio #Reflorestamento",
+    "mediaUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80",
+    "activities": ["Plantio", "Reflorestamento"],
+    "groups": [],
+    "userRole": "Reflorestadora",
+    "userJoinedAt": "2022-09-15",
+    "userAvatarUrl": "https://randomuser.me/api/portraits/women/68.jpg",
+    "likes": {
+      "❤️": 8,
+      "👍": 3,
+      "🌳": 12,
+      "🍃": 7,
+      "♻️": 5,
+      "🌞": 2
+    },
+    "createdAt": "2024-05-01T10:00:00.000Z"
+  },
+  {
+    "id": 1002,
+    "user": "Bob",
+    "username": "bob",
+    "description": "Você sabia que reciclar ajuda a reduzir a poluição? #Reciclagem #EducaçãoAmbiental",
+    "mediaUrl": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=400&q=80",
+    "activities": ["Reciclagem", "Educação Ambiental"],
+    "groups": [],
+    "userRole": "Coletor",
+    "userJoinedAt": "2023-03-21",
+    "userAvatarUrl": "https://randomuser.me/api/portraits/men/32.jpg",
+    "likes": {
+      "❤️": 4,
+      "👍": 6,
+      "🌳": 9,
+      "🍃": 2,
+      "♻️": 8,
+      "🌞": 1
+    },
+    "createdAt": "2024-05-02T11:00:00.000Z"
+  },
+  {
+    "id": 1003,
+    "user": "Carol",
+    "username": "carol",
+    "description": "Junte-se à nossa limpeza de praia neste fim de semana! 🌊 #Limpeza #Voluntariado",
+    "mediaUrl": "https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=400&q=80",
+    "activities": ["Limpeza", "Voluntariado"],
+    "groups": [],
+    "userRole": "Voluntária",
+    "userJoinedAt": "2022-12-05",
+    "userAvatarUrl": "https://randomuser.me/api/portraits/women/65.jpg",
+    "likes": {
+      "❤️": 7,
+      "👍": 2,
+      "🌳": 5,
+      "🍃": 4,
+      "♻️": 3,
+      "🌞": 2
+    },
+    "createdAt": "2024-05-03T12:00:00.000Z"
+  },
+  {
+    "id": 1004,
+    "user": "David",
+    "username": "david",
+    "description": "Trocar sacolas plásticas por reutilizáveis faz muita diferença. #Reutilização #ConsumoConsciente",
+    "mediaUrl": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=400&q=80",
+    "activities": ["Reutilização", "Consumo Consciente"],
+    "groups": [],
+    "userRole": "Educador Ambiental",
+    "userJoinedAt": "2021-07-30",
+    "userAvatarUrl": "https://randomuser.me/api/portraits/men/44.jpg",
+    "likes": {
+      "❤️": 2,
+      "👍": 5,
+      "🌳": 3,
+      "🍃": 6,
+      "♻️": 4,
+      "🌞": 7
+    },
+    "createdAt": "2024-05-04T13:00:00.000Z"
+  }
+]

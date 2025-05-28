@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1748285652617,
+    "title": "Nova Atividade",
+    "description": "Descrição",
+    "participants": 0,
+    "posts": 0,
+    "createdAt": "2025-05-26T18:54:12.617Z"
+  },
+  {
+    "id": 1748380910448,
+    "title": "test",
+    "description": "",
+    "participants": 0,
+    "posts": 0,
+    "createdAt": "2025-05-27T21:21:50.448Z"
+  },
+  {
+    "id": 1748380921513,
+    "title": "teste",
+    "description": "",
+    "participants": 0,
+    "posts": 0,
+    "createdAt": "2025-05-27T21:22:01.513Z"
+  },
+  {
+    "id": 1748381121221,
+    "title": "addas",
+    "description": "",
+    "participants": 0,
+    "posts": 0,
+    "createdAt": "2025-05-27T21:25:21.221Z"
+  }
+]

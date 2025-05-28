@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <g>
+    <!-- Folha -->
+    <path fill="#2E7D32" d="M120 50c0 0 -50 100 -50 200c0 150 120 200 200 200c80 0 180 -50 200 -100c-100 0 -200 -50 -250 -150c-50 -100 -50 -150 -50 -150c-20 0 -50 0 -50 0z"/>
+    <!-- Texto ECO -->
+    <text x="200" y="300" font-family="Arial" font-size="200" font-weight="bold" fill="#2E7D32">ECO</text>
+  </g>
+</svg> 

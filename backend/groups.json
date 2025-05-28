@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "name": "Reciclagem Urbana",
+    "description": "Grupo dedicado à reciclagem em ambientes urbanos.",
+    "iconUrl": "https://api.dicebear.com/7.x/shapes/svg?seed=reciclagem",
+    "coverUrl": "https://picsum.photos/seed/reciclagem/600/200",
+    "creator": "admin",
+    "participants": [
+      "admin",
+      "crozzo"
+    ],
+    "createdAt": "2025-01-01T10:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "name": "Plantio Comunitário",
+    "description": "Grupo para organizar mutirões de plantio de árvores.",
+    "iconUrl": "https://api.dicebear.com/7.x/shapes/svg?seed=plantio",
+    "coverUrl": "https://picsum.photos/seed/plantio/600/200",
+    "creator": "crozzo",
+    "participants": [
+      "crozzo",
+      "rafa"
+    ],
+    "createdAt": "2025-01-02T10:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "name": "Limpeza de Praias",
+    "description": "Grupo focado em ações de limpeza de praias e rios.",
+    "iconUrl": "https://api.dicebear.com/7.x/shapes/svg?seed=limpeza",
+    "coverUrl": "https://picsum.photos/seed/limpeza/600/200",
+    "creator": "rafa",
+    "participants": [
+      "rafa",
+      "spinn"
+    ],
+    "createdAt": "2025-01-03T10:00:00.000Z"
+  }
+]

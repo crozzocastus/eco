@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1748200276000,
+    "username": "crozzo",
+    "password": "Qwert2025!",
+    "email": "adasdas@hotmail.com",
+    "role": "Reciclador",
+    "joinedAt": "2025-05-25T19:11:16.000Z"
+  },
+  {
+    "id": 1748204465684,
+    "username": "rafa",
+    "password": "123",
+    "email": "rafa@gmail.com",
+    "role": "Reciclador",
+    "joinedAt": "2025-05-25T20:21:05.684Z"
+  },
+  {
+    "id": 1748284145321,
+    "username": "admin",
+    "password": "admin",
+    "email": "admin@hotmail.com",
+    "role": "Reciclador",
+    "joinedAt": "2025-05-26T18:29:05.321Z"
+  },
+  {
+    "id": 1748284752414,
+    "username": "teste",
+    "password": "123",
+    "email": "teste@email.com",
+    "role": "Reciclador",
+    "joinedAt": "2025-05-26T18:39:12.414Z"
+  },
+  {
+    "id": 1748287721055,
+    "username": "spinn",
+    "password": "spinn",
+    "email": "blbalbala@outcooked.com",
+    "role": "Reciclador",
+    "joinedAt": "2025-05-26T19:28:41.055Z"
+  }
+]
